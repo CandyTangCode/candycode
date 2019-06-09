@@ -8,5 +8,5 @@ date: 2019-01-15
 location: "Chicago, USA"
 ---
 
-Teachin Assistant to STAT 24500: [Link to Course](https://galton.uchicago.edu/courseinfo/courses/2019/win/ann/w24500-1.shtml)
+Teaching Assistant to STAT 24500: [Link to Course](https://galton.uchicago.edu/courseinfo/courses/2019/win/ann/w24500-1.shtml)
 
