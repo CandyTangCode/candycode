@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full C.V. can be found [here](/files/)
+Full C.V. can be found [here](/files/Yi_Liu_Resume_2019.pdf)
 
 Education
 ======
