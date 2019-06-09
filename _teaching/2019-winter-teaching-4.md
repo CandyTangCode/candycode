@@ -2,9 +2,9 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "STAT 24500"
-permalink: /teaching/2019-winter-teaching-1
+permalink: /teaching/2019-winter-teaching-4
 venue: "University of Chicago, Department of Statistics"
-date: 2014-01-01
+date: 2019-01-15
 location: "Chicago, USA"
 ---
 
