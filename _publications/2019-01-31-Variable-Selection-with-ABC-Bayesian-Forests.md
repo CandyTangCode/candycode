@@ -2,7 +2,7 @@
 title: "Variable Selection with ABC Bayesian Forests"
 collection: publications
 permalink: /publication/2019-01-31-Variable-Selection-with-ABC-Bayesian-Forests
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper develops the methodology for variable selection under non-parametric setting using ABC.'
 date: 2019-01-31
 venue: 'Submitted'
 paperurl: 'https://arxiv.org/abs/1806.02304'
