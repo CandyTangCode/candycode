@@ -7,4 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Second Year Statistic Ph.D. student at the University of Chicago. 
+I am currently a Second Year (going to third year this coming fall) Statistic Ph.D. student at the University of Chicago under the supervision of [Professor Veronika Rockova](http://faculty.chicagobooth.edu/veronika.rockova/) and [Professor John Reinitz](https://galton.uchicago.edu/faculty/reinitz.shtml). 
+
+My research interests are a nice mix of Statistical Theory, Methodology and Applications. Wtih a particular applications to System Biology and genomics.
