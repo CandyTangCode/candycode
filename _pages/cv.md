@@ -9,32 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+Full C.V. can be found [here](/files/)
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Mathematics and Statistics for Finance, Imperial College London, 2015
+* M.S. in Statistics, Stanford University, 2017
+* Ph.D in Statistics, University of Chicago, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2019: Ph.D. Data Science Intern at Wayfair
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2016: Data Science Intern at Adobe Inc
+
+* Summer 2014: Coporate Banking Intern at Royal Bank of Scotland
 
 Publications
 ======
@@ -54,6 +43,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
