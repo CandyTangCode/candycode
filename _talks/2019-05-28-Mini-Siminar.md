@@ -2,7 +2,7 @@
 title: "Mini-Siminar"
 collection: talks
 type: "siminar"
-permalink: /talks/2013-03-01-tutorial-1
+permalink: /talks/2019-05-28-Mini-Siminar
 venue: "Department of Statistics"
 date: 2019-05-28
 location: "Chicago IL, USA"
