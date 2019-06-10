@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "STAT 24500"
+type: "STAT 24400"
 permalink: /teaching/2018-winter-teaching-1
 venue: "University of Chicago, Department of Statistics"
 date: 2018-01-27
