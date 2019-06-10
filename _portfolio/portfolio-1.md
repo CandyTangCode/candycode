@@ -1,6 +1,6 @@
 ---
 title: "Deep Learning for System Biology"
-excerpt: "So Thermodynamic Models are DNN after all "
+excerpt: "Deep Neural Networks in our cells "
 collection: portfolio
 ---
 
