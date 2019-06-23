@@ -12,8 +12,6 @@ Teaching Assistant to STAT 24400: [Link to Course Website](https://galton.uchica
 
 Teaching Assistant to STAT 22400: [Link to Course Website](https://galton.uchicago.edu/courseinfo/courses/2018/spr/ann/s22400-1.shtml)
 
-Teaching Assistant to STAT 24500: [Link to Course](https://galton.uchicago.edu/courseinfo/courses/2019/win/ann/w24500-1.shtml)
-
 Teaching Assistant to STATS 200000: [Link to Course Website](https://galton.uchicago.edu/courseinfo/courses/2018/aut/ann/a20000-1.shtml)
 
-
+Teaching Assistant to STAT 24500: [Link to Course Website](https://galton.uchicago.edu/courseinfo/courses/2019/win/ann/w24500-1.shtml)
