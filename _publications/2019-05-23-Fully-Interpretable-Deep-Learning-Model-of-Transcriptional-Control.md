@@ -3,7 +3,7 @@ title: "Fully Interpretable Deep Learning Model of Transcriptional Control"
 collection: publications
 permalink: /publication/2019-05-23-Fully-Interpretable-Deep-Learning-Model-of-Transcriptional-Control
 excerpt: 'This paper demonstrate that a case of fully interpretable Deep Learning Model which is '
-date: 2019-05-23
+date: 2020-07-15
 venue: 'ISMB 2020'
 paperurl: 'https://www.biorxiv.org/content/biorxiv/early/2019/05/31/655639.full.pdf'
 citation: 'Liu Y, Barr K, Reinitz J. (2019). &quot;Fully Interpretable Deep Learning Model of Transcriptional Control[J].&quot; <i> Submitted </i>. 1(3).'
