@@ -3,7 +3,7 @@ title: "Variable Selection via Thompson Sampling"
 collection: publications
 permalink: /publication/2020-06-25-Variable-Selection-with-Thompson-Sampling
 excerpt: 'Variable Selection Using Thompson Sampling '
-date: 2019-05-23
+date: 2020-05-23
 venue: 'Submitted'
 paperurl: 'https://yiliu9090.github.io/files/VS_TS.pdf'
 citation: 'Liu Y., Rockova, V. . &Variable Selection via Thompson Sampling[J].&quot; <i> Submitted </i>. 1(3).'
