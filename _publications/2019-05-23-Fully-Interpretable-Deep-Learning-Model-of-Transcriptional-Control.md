@@ -8,7 +8,13 @@ venue: 'ISMB 2020'
 paperurl: 'https://academic.oup.com/bioinformatics/article/36/Supplement_1/i499/5870526'
 citation: 'Liu Y, Barr K, Reinitz J. (2019). &quot;Fully Interpretable Deep Learning Model of Transcriptional Control[J].&quot; <i> Submitted </i>. 1(3).'
 ---
-The universal expressibility assumption of Deep Neural Networks (DNNs) is the key motivation behind recent work in the system biology community to employ DNNs to solve important problems in functional genomics and molecular genetics. Because of the black box nature of DNNs, such assumptions, while useful in practice, are unsatisfactory for scientific analysis. In this paper, we give an example of a DNN in which every layer is interpretable. Moreover, this DNN is biologically validated and predictive. We derive our DNN from a systems biology model that was not previously recognized as having a DNN structure. This DNN is concerned with a key unsolved biological problem, which is to understand the DNA regulatory code which controls how genes in multicellular organisms are turned on and off. Although we apply our DNN to data from the early embryo of the fruit fly Drosophila, this system serves as a testbed for analysis of much larger data sets obtained by systems biology studies on a genomic scale.
+Motivation
+
+The universal expressibility assumption of Deep Neural Networks (DNNs) is the key motivation behind recent worksin the systems biology community to employDNNs to solve important problems in functional genomics and moleculargenetics. Typically, such investigations have taken a ‘black box’ approach in which the internal structure of themodel used is set purely by machine learning considerations with little consideration of representing the internalstructure of the biological system by the mathematical structure of the DNN. DNNs have not yet been applied to thedetailed modeling of transcriptional control in which mRNA production is controlled by the binding of specific transcriptionfactors to DNA, in part because such models are in part formulated in terms of specific chemical equationsthat appear different in form from those used in neural networks.
+
+Results
+
+In this paper, we give an example of a DNN whichcan model the detailed control of transcription in a precise and predictive manner. Its internal structure is fully interpretableand is faithful to underlying chemistry of transcription factor binding to DNA. We derive our DNN from asystems biology model that was not previously recognized as having a DNN structure. Although we apply our DNNto data from the early embryo of the fruit fly Drosophila, this system serves as a test bed for analysis of much larger datasets obtained by systems biology studies on a genomic scale. .
 
 [Download paper here](https://academic.oup.com/bioinformatics/article/36/Supplement_1/i499/5870526)
 
