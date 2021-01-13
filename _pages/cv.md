@@ -31,7 +31,7 @@ Reviewer for  Aging ISSN: 1945-4589,  Bernoulli ISSN: 1350-7265, IEEE Assess ISS
 
 Awards
 ======
-American Statistical Association Section on Bayesian Statistical Science Student Paper Competition
+American Statistical Association Section on Bayesian Statistical Science Student Paper Competition 2021 Winner
 
 Publications
 ======
