@@ -17,7 +17,7 @@ Education
 * M.S. in Statistics, Stanford University, 2017
 * Ph.D in Statistics, University of Chicago, 2021 (expected)
 
-Work experience
+Industry experience
 ======
 * Summer 2019: Ph.D. Data Science Intern at Wayfair
 
