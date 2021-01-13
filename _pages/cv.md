@@ -29,6 +29,9 @@ Professional Service
 ======
 Reviewer for  Aging ISSN: 1945-4589,  Bernoulli ISSN: 1350-7265, IEEE Assess ISSN: 	2169-3536, Statistical Methods in Medical Research ISSN: 1350-7265
 
+Awards
+======
+American Statistical Association Section on Bayesian Statistical Science Student Paper Competition
 
 Publications
 ======
