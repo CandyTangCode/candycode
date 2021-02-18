@@ -6,7 +6,7 @@ excerpt: 'This paper demonstrate that a case of fully interpretable Deep Learnin
 date: 2020-07-15
 venue: 'ISMB 2020'
 paperurl: 'https://academic.oup.com/bioinformatics/article/36/Supplement_1/i499/5870526'
-citation: 'Liu Y, Barr K, Reinitz J. (2019). &quot;Fully Interpretable Deep Learning Model of Transcriptional Control[J].&quot; <i> Submitted </i>. 1(3).'
+citation: 'Liu Y, Barr K, Reinitz J. (2019). &quot; Fully Interpretable Deep Learning Model of Transcriptional Control[J].&quot;<i> Bioinformatics, Volume 36, Issue Supplement_1, July 2020, Pages i499–i507,  Published </i>. 1(3).'
 ---
 Motivation
 
