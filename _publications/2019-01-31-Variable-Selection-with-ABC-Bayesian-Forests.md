@@ -12,4 +12,4 @@ Few problems in statistics are as perplexing as variable selection in the presen
 
 [Download paper here](https://arxiv.org/abs/1806.02304)
 
-Recommended citation: Liu Y, Ročková V, Wang Y. Variable Selection with ABC Bayesian Forests[J]. arXiv preprint arXiv:1806.02304, 2019.
+Recommended citation: Liu Y, Ročková V, Wang Y. Variable Selection with ABC Bayesian Forests[J]. arXiv preprint arXiv:1806.02304, 2020.
