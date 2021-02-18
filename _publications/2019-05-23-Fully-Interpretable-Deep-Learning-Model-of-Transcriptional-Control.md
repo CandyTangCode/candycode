@@ -2,7 +2,7 @@
 title: "Fully Interpretable Deep Learning Model of Transcriptional Control"
 collection: publications
 permalink: /publication/2019-05-23-Fully-Interpretable-Deep-Learning-Model-of-Transcriptional-Control
-excerpt: 'This paper demonstrate that a case of fully interpretable Deep Learning Model which is '
+excerpt: 'This paper demonstrate that a case of fully interpretable Deep Learning Model '
 date: 2020-07-15
 venue: 'ISMB 2020'
 paperurl: 'https://academic.oup.com/bioinformatics/article/36/Supplement_1/i499/5870526'
