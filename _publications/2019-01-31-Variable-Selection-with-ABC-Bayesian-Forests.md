@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-01-31-Variable-Selection-with-ABC-Bayesian-Forests
 excerpt: 'This paper develops the methodology for variable selection under non-parametric setting using ABC.'
 date: 2020-01-31
-venue: 'Journal of Royal Statistical Society Series B'
+venue: 'Journal of Royal Statistical Society Series B (in Press)'
 paperurl: 'https://arxiv.org/abs/1806.02304'
 citation: 'Liu Y, Ročková V, Wang Y (2020). &quot;Variable Selection with ABC Bayesian Forests.&quot; <i> Journal of Royal Statistical Society Series B, In Press</i> .'
 ---
