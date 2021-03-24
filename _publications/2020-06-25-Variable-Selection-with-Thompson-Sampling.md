@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-06-25-Variable-Selection-with-Thompson-Sampling
 excerpt: 'TVS brings together Bayesian reinforcement and machine learning in order to extend the reach of Bayesian subset selection to non-parametric models and large datasets with very many predictors and/or very many observations. '
 date: 2020-05-23
-venue: 'Submitted '
+venue: 'Winner of SBSS 2020 Student Paper Competition awarded by ASA, Jounal of America Statistical Association (In Press)'
 paperurl: 'https://yiliu9090.github.io/files/VS_TS.pdf'
 citation: 'Liu Y., Rockova, V. . Variable Selection via Thompson Sampling[J].&quot; <i> arXiv preprint arXiv:2007.00187, 2020. </i>. 1(3).'
 ---
