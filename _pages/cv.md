@@ -19,6 +19,8 @@ Education
 
 Industry experience
 ======
+* 2022 - : Applied Scientist at Amazon
+
 * Summer 2019: Ph.D. Data Science Intern at Wayfair
 
 * Summer 2016: Data Science Intern at Adobe Inc
