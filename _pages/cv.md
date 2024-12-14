@@ -19,7 +19,9 @@ Education
 
 Industry experience
 ======
-* 2022 - : Applied Scientist at Amazon
+* 2024 -      : Applied Scientist at Microsoft
+
+* 2022 - 2024 : Applied Scientist at Amazon
 
 * Summer 2019: Ph.D. Data Science Intern at Wayfair
 
