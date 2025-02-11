@@ -304,4 +304,4 @@ compress_html:
   ignore:
     envs: development
 
-destination: /_static/
+destination: ./_static/
