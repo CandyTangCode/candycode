@@ -15,7 +15,7 @@ Education
 ======
 * B.S. in Mathematics and Statistics for Finance, Imperial College London, 2015
 * M.S. in Statistics, Stanford University, 2017
-* Ph.D in Statistics, University of Chicago, 2021 (expected)
+* Ph.D in Statistics, University of Chicago, 2022
 
 Industry experience
 ======
