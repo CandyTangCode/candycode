@@ -11,9 +11,9 @@ title                    : "Candy Tang"
 title_separator          : "-"
 name                     : &name "Candy Tang"
 description              : &description "Pathways Operations Manager at Amazon"
-url                      : https://candycode.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://candycode.github.io"
+url                      : "https://candytangcode.github.io/candycode/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "candycode/candytangcode.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "Candy Tang"
-  avatar           : "g"
+  avatar           : 
   bio              : "Pathways Operations Manager"
-  location         : ""
+  location         : 
   employer         : "Amazon"
-  googlescholar    : ""
+  googlescholar    : 
   email            : "stang24@uw.edu"
   uri              :
   bitbucket        :
@@ -97,10 +97,10 @@ author:
   instagram        :
   lastfm           :
   linkedin         : "linkedin.com/in/tangshujun"
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
