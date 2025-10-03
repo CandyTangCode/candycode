@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yi Liu"
-  avatar           : "liu_yi192x246.jpg"
-  bio              : "A Ph.D. Student at University of Chicago"
-  location         : "University of Chicago"
-  employer         : #"University of Chicago"
-  googlescholar    : "https://scholar.google.com/citations?user=36bJL9gAAAAJ&hl"
-  email            : "yil@galton.uchicago.edu"
+  name             : "Candy Tang"
+  avatar           : "g"
+  bio              : "Pathways Operations Manager"
+  location         : ""
+  employer         : "Amazon"
+  googlescholar    : ""
+  email            : "stang24@uw.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,13 +91,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yiliu9090"
+  github           : "candytangcode"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "yi-liu-seattle"
-  orcid            : "https://orcid.org/0000-0001-7865-5638"
+  linkedin         : "linkedin.com/in/tangshujun"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
